@@ -4,9 +4,9 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: Nhu Tung Lam.
 
-Student ID: USTH-ID.
+Student ID: BI12-233.
 
 ===
 
